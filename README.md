@@ -1,1 +1,3 @@
-This project is to show list of pokemons by the given ID
+POKEMON
+
+This project is done by using the tech stacks Javascript, HTML and CSS.
